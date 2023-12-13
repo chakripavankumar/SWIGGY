@@ -270,6 +270,11 @@ img, video {
   margin-right: .25rem;
 }
 
+.mx-3 {
+  margin-left: .75rem;
+  margin-right: .75rem;
+}
+
 .mx-auto {
   margin-left: auto;
   margin-right: auto;
@@ -283,16 +288,6 @@ img, video {
 .my-4 {
   margin-top: 1rem;
   margin-bottom: 1rem;
-}
-
-.mx-4 {
-  margin-left: 1rem;
-  margin-right: 1rem;
-}
-
-.mx-3 {
-  margin-left: .75rem;
-  margin-right: .75rem;
 }
 
 .mb-2 {
